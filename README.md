@@ -1,7 +1,10 @@
-[![MasterHead](https://www.google.com/search?q=animated+coding+gif&rlz=1C1CHBF_enKE992KE992&sxsrf=ALiCzsbDqdKge-P2AUntsdo5OlFXo38S3Q:1658584957435&source=lnms&tbm=isch&sa=X&ved=2ahUKEwivzN65lo_5AhURuKQKHREbAy0Q_AUoAXoECAEQAw&biw=1280&bih=577&dpr=1.5#imgrc=jGAD8HXSi2ZwJM)](https://sites.google.com/view/ambundoportfolio/home?authuser=0)
+![Black Yellow Simple Profile Linkedin Banner](https://user-images.githubusercontent.com/105471348/180610230-4ba3f224-0149-4f94-a8b0-7ba22c38745a.png)
+
 <h1 align="center">Hi 👋, I'm Brian Ambundo Katiechi</h1>
 <h3 align="center">A passionate frontend development from Kenya</h3>
-img align="right" alt="Coding" width="400" src="https://tenor.com/view/code-programmer-jim-carrey-developer-hacker-gif-15199933"
+
+![ClassicWeepyAnemone-max-1mb](https://user-images.githubusercontent.com/105471348/180609895-4df28379-4902-44c1-9cce-c6f07439e418.gif)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=katiechi&label=Profile%20views&color=0e75b6&style=flat" alt="katiechi" /> </p>
 
