@@ -1,7 +1,7 @@
 ![Black Yellow Simple Profile Linkedin Banner](https://user-images.githubusercontent.com/105471348/180610230-4ba3f224-0149-4f94-a8b0-7ba22c38745a.png)
 
 <h1 align="center">Hi 👋, I'm Brian Ambundo Katiechi</h1>
-<h3 align="center">A passionate frontend development from Kenya</h3>
+<h3 align="center">A passionate frontend developer from Kenya</h3>
 
 ![ClassicWeepyAnemone-max-1mb](https://user-images.githubusercontent.com/105471348/180609895-4df28379-4902-44c1-9cce-c6f07439e418.gif)
 
